@@ -8,10 +8,18 @@ public class OptionsManager {
     //Get Chrome Options
     public static ChromeOptions getChromeOptions() {
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--start-maximized");
         options.addArguments("--ignore-certificate-errors");
+        options.addArguments("test-type");
+        options.addArguments("start-maximized");
+//        options.addArguments("--window-size=1920,1080");
+//        options.addArguments("--enable-precise-memory-info");
         options.addArguments("--disable-popup-blocking");
-        //options.addArguments("--incognito");
+//        options.addArguments("--disable-default-apps");
+        options.addArguments("test-type=browser");
+//        options.addArguments("--incognito");
+        options.addArguments("--disable-dev-shm-usage");
+        options.addArguments("--headless");
+        options.addArguments("--no-sandbox");
         return options;
         /*ChromeDriverService service = new ChromeDriverService.Builder()
                 .usingAnyFreePort()
