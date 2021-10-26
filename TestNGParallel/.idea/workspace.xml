@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e5753af-1b44-4648-b1ed-bac47540acd5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/OptionsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/OptionsManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ztK68yLaEmCIAS2IOj8QFFJzRF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sivakumar\ParallelTestNG\TestNGParallel" />
+      <recent name="C:\Users\Sivakumar\ParallelTestNG\TestNGParallel\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Sivakumar/ParallelTestNG/TestNGParallel/TestNG.xml">
+    <configuration name="C:/Users/Sivakumar/ParallelTestNG/TestNGParallel/SmpleTestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGParallel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SmpleTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sivakumar/ParallelTestNG/TestNGParallel/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGParallel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGParallel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.GOOGLE1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGParallel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="GOOGLE1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridDemo.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGParallel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GridDemo" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Sivakumar/ParallelTestNG/TestNGParallel/TestNG.xml" />
+        <item itemvalue="TestNG.C:/Users/Sivakumar/ParallelTestNG/TestNGParallel/SmpleTestNG.xml" />
+        <item itemvalue="TestNG.GridDemo.login" />
+        <item itemvalue="TestNG.FirstTest.GOOGLE1" />
+        <item itemvalue="TestNG.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e5753af-1b44-4648-b1ed-bac47540acd5" name="Changes" comment="" />
+      <created>1634961777133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634961777133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
